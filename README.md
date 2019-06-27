@@ -1,6 +1,6 @@
 # Data Structure
 
-data structure is that 
+data structure is structure of data group for computer treat efficiently.
 
 
 # Basic Data Structure
