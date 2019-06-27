@@ -8,9 +8,9 @@ data structure is that
 - Array
    - Stack
    - Queue
-- Linked List
+- Associative Array
    - Hash Table
-   - ルックアップテーブル
-- 線形リスト
-- 木構造
-- Graph 
+   - Lookup Table
+- Linked List
+- Tree Structure
+- Graph
